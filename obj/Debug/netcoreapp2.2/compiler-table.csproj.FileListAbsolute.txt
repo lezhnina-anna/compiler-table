@@ -1,0 +1,11 @@
+D:\study\compiler-table\bin\Debug\netcoreapp2.2\compiler-table.deps.json
+D:\study\compiler-table\bin\Debug\netcoreapp2.2\compiler-table.runtimeconfig.json
+D:\study\compiler-table\bin\Debug\netcoreapp2.2\compiler-table.runtimeconfig.dev.json
+D:\study\compiler-table\bin\Debug\netcoreapp2.2\compiler-table.dll
+D:\study\compiler-table\bin\Debug\netcoreapp2.2\compiler-table.pdb
+D:\study\compiler-table\obj\Debug\netcoreapp2.2\compiler-table.csprojAssemblyReference.cache
+D:\study\compiler-table\obj\Debug\netcoreapp2.2\compiler-table.csproj.CoreCompileInputs.cache
+D:\study\compiler-table\obj\Debug\netcoreapp2.2\compiler-table.AssemblyInfoInputs.cache
+D:\study\compiler-table\obj\Debug\netcoreapp2.2\compiler-table.AssemblyInfo.cs
+D:\study\compiler-table\obj\Debug\netcoreapp2.2\compiler-table.dll
+D:\study\compiler-table\obj\Debug\netcoreapp2.2\compiler-table.pdb
